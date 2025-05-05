@@ -11,11 +11,16 @@ Solutions are organized by difficulty level, and each problem includes a clean i
 ```
 codeforces-solutions/
 ├── 800/
-│   └── A_Say_Hello_with_C++.cpp
-│   └──.....
-├── docs/
-│   └── A_Say_Hello_with_C++.md
-│   └──....
+│   └── Sheet_1(Data type - Conditions)
+│       └── Solution
+│           └──A_Say_Hello_with_C++.cpp 
+│               └──.....
+├── Explanation/
+│   └── 800/
+│       └── Sheet_1(Data type - Conditions)
+│           └── Solution
+│               └──A_Say_Hello_with_C++.md 
+│                  └──.....
 ├── .gitignore
 └── README.md
 ```
@@ -24,6 +29,6 @@ codeforces-solutions/
 
 ## ✅ Solutions with explanations
 
-- [Code](./800)
-- [Explanation](./Explanation/800)
+- [Solution (Code)](./800/Sheet_1(Data%20type%20-%20Conditions)/Solution)
+- [Explanation](./Explanation/800/Sheet_1(Data%20type%20-%20Conditions)/Solution)
 - [All_Question](./800/Sheet_1(Data%20type%20-%20Conditions)/Question%20Paper/All_Question.pdf)
