@@ -58,3 +58,6 @@ Multiples, Divisibility, Modular Operator, Conditional Statement, Beginner
 
 ## 🔚 Final Notes:
 এই প্রবলেমটি number divisibility এবং modular operation (%) এর কনসেপ্টকে পরিষ্কার করে, যা গণিত এবং প্রবলেম সলভিং এর বেসিক ধারণা গঠনে সহায়ক।
+
+## Question paper:
+- [All_Question](../Question%20Paper/All_Question.pdf)

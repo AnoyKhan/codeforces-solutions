@@ -87,3 +87,6 @@ Coordinate Geometry, Conditions, Quadrants, Axis Check, C++ Basics
 ## 🔚 Final Notes:
 এই প্রবলেমটি coordinate geometry এর বেসিক চর্চার জন্য অসাধারণ।
 যে কোনো Graph-Plotting প্রজেক্ট বা Game Development-এ এই ধরনের logic দরকার হয়।
+
+## Question paper:
+- [All_Question](../Question%20Paper/All_Question.pdf)

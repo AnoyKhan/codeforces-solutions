@@ -55,3 +55,6 @@ Area Calculation, Circle, Floating Point, Precision, Beginner
 
 ## 🔚 Final Notes:
 এই প্রবলেমটি সিম্পল অথচ গুরুত্বপূর্ণ কারণ এতে C++ এ floating-point সংখ্যা এবং setprecision() ব্যবহারের ধারণা পরিষ্কার করা হয়।
+
+## Question paper:
+- [All_Question](../Question%20Paper/All_Question.pdf)

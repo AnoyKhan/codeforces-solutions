@@ -1,4 +1,4 @@
-# 🧩 Problem: M - Check Character Type
+# 🧩 Problem: M - Capital Or Small Or Digit (Check Character Type)
 
 ## ✅ Summary:
 ইনপুট হিসেবে একটি ক্যারেক্টার (character) দেয়া থাকবে।  
@@ -69,3 +69,6 @@ Character, ASCII, Classification, If-Else, Beginner
 ## 🔚 Final Notes:
 এই প্রবলেমটি ASCII রেঞ্জ বুঝে ক্যারেক্টার ক্লাসিফিকেশন শেখার জন্য দুর্দান্ত।
 Digit, Capital, ও Small letter আলাদা করার জন্য ASCII value ব্যবহার করা হয়েছে।
+
+## Question paper:
+- [All_Question](../Question%20Paper/All_Question.pdf)

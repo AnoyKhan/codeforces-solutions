@@ -1,4 +1,4 @@
-# 🧩 Problem: O - Evaluate Simple Arithmetic Expression
+# 🧩 Problem: O - Calculator (Evaluate Simple Arithmetic Expression)
 
 ## ✅ Summary:
 একটি সহজ গাণিতিক এক্সপ্রেশন ইনপুট হিসেবে দেয়া থাকবে — দুটি integer এর মাঝে একটি operator (+, -, *, /)।  
@@ -72,3 +72,6 @@ Arithmetic, Operators, Expression Evaluation, If-Else, Beginner
 ## 🔚 Final Notes:
 এই প্রবলেমটি C++ এ কিভাবে operator character ইনপুট নিয়ে তাদের ASCII মান ব্যবহার করে গাণিতিক অপারেশন চালাতে হয় — তা শেখায়।
 এটি একটি বেসিক expression evaluator হিসেবে কাজ করে।
+
+## Question paper:
+- [All_Question](../Question%20Paper/All_Question.pdf)

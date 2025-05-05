@@ -38,3 +38,6 @@ Beginner, String, IO, Basic Input Output
 
 ## 🔚 Final Notes:
 এই প্রবলেমটি সহজ হলেও, এটি string ইনপুট নেওয়া এবং output প্রিন্ট করার মৌলিক ধারণা শেখায়।
+
+## Question paper:
+- [All_Question](../Question%20Paper/All_Question.pdf)

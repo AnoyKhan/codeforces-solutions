@@ -62,3 +62,6 @@ Arithmetic, IO, Simple Operations, Beginner
 
 ## 🔚 Final Notes:
 এই প্রবলেমটি মূলত basic input/output এবং basic arithmetic operators (addition, multiplication, subtraction) ব্যবহারে দক্ষতা বাড়ানোর জন্য।
+
+## Question paper:
+- [All_Question](../Question%20Paper/All_Question.pdf)
