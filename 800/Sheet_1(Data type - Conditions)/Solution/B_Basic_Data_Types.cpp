@@ -1,6 +1,6 @@
+//B. Basic Data Types
 #include <iostream>
 using namespace std;
-
 int main() {
     int a;
     long long b;
