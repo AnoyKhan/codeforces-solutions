@@ -1,3 +1,4 @@
+//M. Capital Or Small Or Digit
 #include<iostream>
 using namespace std;
 int main(){
