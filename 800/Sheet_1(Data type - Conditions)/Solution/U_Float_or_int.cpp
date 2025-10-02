@@ -1,3 +1,4 @@
+//U. Float or int
 #include <iostream>
 #include <algorithm>
 using namespace std;
